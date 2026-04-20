@@ -1,0 +1,19 @@
+{
+  "name": "Sheet-Tee Golf",
+  "short_name": "Sheet-Tee",
+  "description": "Private tee sheet app for your golf group",
+  "start_url": "/master/",
+  "scope": "/master/",
+  "display": "standalone",
+  "background_color": "#1a3a2a",
+  "theme_color": "#1a3a2a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "sheetlogo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
